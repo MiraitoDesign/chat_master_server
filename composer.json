@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-0": {
+            "ChatMaster": "src"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "*"
+    }
+}
